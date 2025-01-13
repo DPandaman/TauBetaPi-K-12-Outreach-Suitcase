@@ -1,2 +1,7 @@
-# TauBetaPi-K-12-Outreach-Suitcase
-Code for the suitcase used in Tau Beta Pi's 2024 K-12 Outreach Program
+# TauBetaPi K-12 Outreach Project:
+
+### Project Overview:
+
+The overall goal of this outreach event was to create a set of puzzle activites that students could solve in small teams to solve a larger puzzle. Each small team would solve their small projects (strawberry DNA, metal densities, chemical samples testing, and logic puzzles) to get a preliminary code. Once solved the solutions could be assembled into the numeric code ot unlock the briefcase. After opening the breifcase, the students were presented with one last task to stop a "rocket launch". The solution to the puzzle insdie the breifcase was used to stop the timer from counting down.
+
+
