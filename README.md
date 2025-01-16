@@ -1,4 +1,4 @@
-# TauBetaPi K-12 Outreach Project:
+# TauBetaPi 2024 K-12 Outreach Project:
 
 ### Project Overview:
 
